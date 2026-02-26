@@ -1,28 +1,52 @@
-# Privacy Policy for Edge Racers
+Privacy Policy
+Last updated: 05/12/2025
 
-_Last updated: 05/12/2025_
+Edge Racers is a children’s game available on Google Play. We are committed to protecting children’s privacy.
 
-This Privacy Policy describes how **Edge Racers** ("the App") handles user data.
+Information Collection
 
-## Information Collection and Use
-Edge Racers does **not collect, store, transmit, or process** any personal or non-personal user data.
+The developer of Edge Racers does not directly collect or store personal information from users.
 
-- No personal information is collected.
-- No gameplay data is collected.
-- No analytics tools are used.
-- No third-party advertising SDKs are used.
-- No tracking or profiling occurs.
+The App uses third-party advertising services to display ads. These services may automatically collect limited technical information necessary to serve contextual advertisements, including:
 
-## Third-Party Services
-The App does **not** use any external services (such as AdMob, Unity Analytics, Firebase, or similar SDKs) that would collect data.
+Device type
 
-## Children's Privacy
-The App does not collect any data from users of any age, including children under the age of 13.
+Operating system version
 
-## Changes to This Privacy Policy
-If future updates introduce features requiring data collection or third-party services, this policy will be updated accordingly. Users will be informed of any significant changes.
+IP address (used for approximate location)
 
-## Contact
-If you have any questions or concerns about this Privacy Policy, you can contact the developer at:
+General country information
 
-**Email:** imrrazor@gmail.com
+Ad performance and diagnostic data
+
+The App is configured for child-directed treatment. Personalized advertising and behavioral targeting are disabled.
+
+Third-Party Services
+
+Edge Racers uses:
+
+LevelPlay mediation by ironSource
+
+Unity Ads
+
+These services process data in accordance with their own privacy policies and child protection requirements.
+
+Children’s Privacy
+
+Edge Racers is directed to children under 13.
+
+We do not knowingly collect personal information from children.
+
+Advertising services used in the App are configured to comply with the Google Play Families Policy and applicable child privacy laws, including COPPA.
+
+Parental Controls
+
+Parents can control or reset advertising preferences through their Android device settings.
+
+Changes to This Policy
+
+If future updates introduce additional features or services, this Privacy Policy will be updated accordingly.
+
+Contact
+
+Email: imrrazor@gmail.com
